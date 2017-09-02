@@ -1,0 +1,2 @@
+# minipy
+Python minifier
